@@ -1,0 +1,8 @@
+# From the three Dog Night song: "joy to the world ( jeremiah was a bullfrog)"
+#puts "Joy to the world"
+#puts "all the boys and girls"
+#puts "joy to the fishes in the deep blue sea"
+#puts "joy to you and me"
+# name = "byron"
+name = " luca"
+puts "we're sorry, but per health inspector's rules, #{name} in not allowed in store"
